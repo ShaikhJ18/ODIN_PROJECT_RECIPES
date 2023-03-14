@@ -1,0 +1,2 @@
+# ODIN_PROJECT_RECIPES
+First Assignment for THE ODIN PROJECT
